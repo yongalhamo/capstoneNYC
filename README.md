@@ -1,5 +1,5 @@
-# capstone-
-NCY restaurant
+
+#NCY restaurant
 1:Introduction
 
 New York City is the place of plenty. There is literally everything here and that too in abundance. The city is filled within numerous businesses everywhere all across it’s five boroughs and one such business that  uniquely identifies New York City is the restaurant business. As the rumours suggest , here in this city you can find every cuisine , authentic only second to the country of origin. There are so many ethnic cuisine everywhere.
